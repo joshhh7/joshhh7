@@ -1,4 +1,4 @@
-## Hi there 👋
+#👋 Hi, I'm Joshua
 
 <!--
 **joshhh7/joshhh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 I am currently a student persuing my second year of Master's degree in **Cryptology, High-Performance Computing (HPC) and Algorithmics**.
+🧑‍💻 Throughout my studies, I've developed a deep interest in secure systems, performance enhancement and optimization. To put what I've learned into practice, I've had the opportunity to work on several projects and practical implementations, both in collaboration and by myself.
+🔭 I wanted to document and display my work for people to see what I was able to learn and implement throughout my Master's degree. So feel free to explore my repositories.
