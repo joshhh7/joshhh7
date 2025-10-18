@@ -28,3 +28,14 @@ Here are some ideas to get you started:
   - [Matrix Algorithms: Inversion and Multiplication](https://github.com/SimonSD1/StrassenMatrixOperations)
 - <b> HPC projects</b>
   - [Parallel Meet-in-the-Middle Attack](https://github.com/SimonSD1/MITM-Parallelization)
+
+
+<h2> 🧑‍💻 Course-related Implementations :</h2>
+
+- <b> Algorithmics implementations</b>
+  - [Algebraic algorithms for Cryptography]()
+- <b> Cryptanalysis implementations</b>
+  - [Classical cryptology]()
+  - [Advanced cryptology]() <b><i>(In progress)</b></i>
+  - [Side channel attacks]() <b><i>(In progress)</b></i>
+ 
