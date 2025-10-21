@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>👋 Hi, I'm Joshua <br/><a> Student in Crytpology, HPC and Algorithmics</a></h1>
+<h1>👋Hi, I'm Joshua <br/><a> Student in Crytpology, HPC and Algorithmics</a></h1>
 
 <h2> About me</h2>
 
