@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2> 🤝 Collaborative Projects :</h2>
 
 - <b> Algorithmics projects</b>
-  - [Real root isolation and Subdivision algorithms]()
+  - [Real root isolation and Subdivision algorithms](https://github.com/SimonSD1/Subdivision-algorithms-and-real-root-isolation)
   - [Matrix Algorithms: Inversion and Multiplication](https://github.com/SimonSD1/StrassenMatrixOperations)
 - <b> HPC projects</b>
   - [Parallel Meet-in-the-Middle Attack](https://github.com/SimonSD1/MITM-Parallelization)
