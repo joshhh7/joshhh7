@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 - <b> Algorithmics implementations</b>
   - [Algebraic algorithms for Cryptography]()
 - <b> Cryptanalysis implementations</b>
-  - [Classical cryptology]()
-  - [Advanced cryptology]() <b><i>(In progress)</b></i>
+  - [Cryptanalysis through CTF]() <b><i>(In progress)</b></i>
   - [Side channel attacks]() <b><i>(In progress)</b></i>
  
