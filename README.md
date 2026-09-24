@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 🧑‍💻 Throughout my studies, I've developed a deep interest in secure systems, performance enhancement and optimization. To put what I've learned into practice, I've had the opportunity to work on several projects and practical implementations, both in collaboration and by myself.  <br/>
 🔭 I wanted to document and display my work for people to see what I was able to learn and implement throughout my Master's degree - feel free to explore my repositories !  <br/>
 
+<h2> Personal projects :</h2>
+
+- [Rust implementation of SHA-256](https://github.com/joshhh7/sha256_rust)
 
 <h2> 🤝 Collaborative Projects :</h2>
 
